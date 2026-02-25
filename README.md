@@ -25,6 +25,20 @@ Features:
 - No VPN included
 - Safe and privacy-respecting
 
+# ScreenShot Fire tv OS 5.4 and OS 7 working:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<img src="https://github.com/ilblogdicristiangallo/MR-TELEVISION/blob/main/FREE/mrtelevision_free0.png?raw=true" width="200px" alt="Immagine 0" />
+<img src="https://github.com/ilblogdicristiangallo/MR-TELEVISION/blob/main/FREE/mrtelevision_free1-2.png?raw=true" width="200px" alt="Immagine 1-2" />
+<img src="https://raw.githubusercontent.com/ilblogdicristiangallo/MR-TELEVISION/refs/heads/main/FREE/mrtelevision_free1.png" width="200px" alt="Immagine 1" />
+<img src="https://raw.githubusercontent.com/ilblogdicristiangallo/MR-TELEVISION/refs/heads/main/FREE/mrtelevision_free2.png" width="200px" alt="Immagine 2" />
+<img src="https://github.com/ilblogdicristiangallo/MR-TELEVISION/blob/main/FREE/mrtelevision_free3.png?raw=true" width="200px" alt="Immagine 3" />
+<img src="https://github.com/ilblogdicristiangallo/MR-TELEVISION/blob/main/FREE/mrtelevision_free4.png?raw=true" width="200px" alt="Immagine 4" />
+<img src="https://github.com/ilblogdicristiangallo/MR-TELEVISION/blob/main/FREE/mrtelevision_free5.png?raw=true" width="200px" alt="Immagine 5" />
+
+</div>
+
 # MR-TELEVISION PRO
   Media player for Fire TV OS 5–8 with WireGuard engine. PRO version only via donation. VPN requires user config files.
 
