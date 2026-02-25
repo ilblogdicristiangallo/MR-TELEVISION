@@ -64,3 +64,9 @@ MR-TELEVISION PRO is available **only via donation**. After donating via PayPal 
 VPN functionality requires **user-supplied WireGuard configuration files** (`.conf` or `.zip` containing `.conf` files). The app **does not provide VPN servers or certificates**.
 
 # Payment
+<!-- Bottone cliccabile con immagine responsive -->
+<a href="https://cristiangallo.gumroad.com/l/ilblogdicristiangallo" target="_blank">
+    <img src="https://raw.githubusercontent.com/ilblogdicristiangallo/MR-TELEVISION/main/FREE/logo-buy-now.png" 
+         alt="Get MR-TELEVISION PRO" 
+         style="max-width:100%; height:auto; border-radius:8px; cursor:pointer;">
+</a>
