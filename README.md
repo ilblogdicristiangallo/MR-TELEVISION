@@ -73,7 +73,7 @@ Features:
 - # Notes
 - ## How to Get MR-TELEVISION PRO
 
-MR-TELEVISION PRO is available **only via donation**. After donating via PayPal or Gumroad, you will receive access to download the PRO APK.
+MR-TELEVISION PRO is available **only via donation**. After donating via Gumroad, you will receive access to download the PRO APK.
 
 VPN functionality requires **user-supplied WireGuard configuration files** (`.conf` or `.zip` containing `.conf` files). The app **does not provide VPN servers or certificates**.
 
